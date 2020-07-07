@@ -22,7 +22,7 @@
 
 ## Working Motivation
 
-I love tech, especially in web, so I want to develop ecosystem of web, and also, I want to contribute to human society via web technology.
+I love tech, especially the web, so I want to develop the web ecosystem, and also, I want to contribute to human society through the web technology.
 
 ## How do I work
 
