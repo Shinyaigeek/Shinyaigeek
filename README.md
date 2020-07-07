@@ -8,7 +8,7 @@
 - 🔥 web enthuasist
 - ✨ Front-end dev skills
 - ✨ web performance tuning skills in web front-end(Rendering, Loading, Cache, Reverse Proxy)
-- 🎓 studying systems-theory, environmental-engineering in University of Tokyo.
+- 🎓 studying systems-theory, environmental-engineering at University of Tokyo.
 - 🦄 I'm on job-hunting 
 - 👀 watching on web ecosystem(especially in web latest trends, frontend tech)
 - 💘 Love Web, Programming, making something
