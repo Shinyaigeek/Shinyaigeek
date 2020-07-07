@@ -1,0 +1,43 @@
+# Shinobu Hayashi (a.k.a Shinyaigeek🐵)
+
+[![](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Shinyaigeek) [![](https://img.shields.io/badge/Twitter-shinyaigeek-blue)](https://twitter.com/Shinyaigeek) [![](https://img.shields.io/badge/Blog-%E3%81%97%E3%81%AB%E3%82%83%E3%81%84%E3%81%AE%E5%AD%A6%E7%BF%92%E5%B8%B3-yellow)](https://shinyaigeek.dev)
+
+## Features
+
+- 🕸 web developer
+- 🔥 web enthuasist
+- ✨ Front-end dev skills
+- ✨ web performance tuning skills in web front-end(Rendering, Loading, Cache, Reverse Proxy)
+- 🎓 studying systems-theory, environmental-engineering in University of Tokyo.
+- 🦄 I'm on job-hunting 
+- 👀 watching on web ecosystem(especially in web latest trends, frontend tech)
+- 💘 Love Web, Programming, making something
+- 🌍 21 years old
+- 🌍 Live in Tokyo, Japan
+
+## Contribute
+
+- Follow me on Twitter ([@shinyaigeek](https://twitter.com/Shinyaigeek)) or ([GitHub](https://github.com/Shinyaigeek)) ✌️
+- A Message about web-dev position job is welcome 🥳
+
+## Working Motivation
+
+I love tech, especially in web, so I want to develop ecosystem of web, and also, I want to contribute to human society via web technology.
+
+## How do I work
+
+```typescript
+
+let alive = true;
+
+while(alive) {
+  coffee();
+  chatWithMyFamilyFriendNeighbor();
+  code();
+  learn();
+  contribute();
+  eat();
+  sleep();
+}
+
+```
