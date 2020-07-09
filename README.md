@@ -10,7 +10,7 @@
 - ✨ web performance tuning skills in web front-end(Rendering, Loading, Cache, Reverse Proxy)
 - 🎓 studying systems-theory, environmental-engineering at University of Tokyo.
 - 🦄 I'm on job-hunting 
-- 👀 watching on web ecosystem(especially in web latest trends, frontend tech)
+- 👀 watching on web ecosystem(especially in web standard, frontend tech)
 - 💘 Love Web, Programming, making something
 - 🌍 21 years old
 - 🌍 Live in Tokyo, Japan
