@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Shinyaigeek) [![](https://img.shields.io/badge/Twitter-shinyaigeek-blue)](https://twitter.com/Shinyaigeek) [![](https://img.shields.io/badge/Blog-%E3%81%97%E3%81%AB%E3%82%83%E3%81%84%E3%81%AE%E5%AD%A6%E7%BF%92%E5%B8%B3-yellow)](https://shinyaigeek.dev)
 
-![](https://github-readme-stats.vercel.app/api?username=shinyaigeek&count_private=true&show_icons=true&theme=dracula) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shinyaigeek&count_private=true&show_icons=true&theme=dracula) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyaigeek&layout=compact)
 
 ## Features
 
