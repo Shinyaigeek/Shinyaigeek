@@ -43,3 +43,5 @@ while(alive) {
 }
 
 ```
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iqhxn3r451nf2lg00m3bvigny&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=iqhxn3r451nf2lg00m3bvigny&redirect=true)
