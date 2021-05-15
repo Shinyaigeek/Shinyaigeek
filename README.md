@@ -9,11 +9,11 @@
 - 🕸 web developer
 - 🔥 web enthuasist
 - ✨ Front-end dev skills
-- ✨ web performance tuning skills in web front-end(Rendering, Loading, Cache, Reverse Proxy)
+- ✨ web performance tuning skills in web front-end(Rendering, Loading, Cache stratagy)
 - 🎓 studying systems-theory, environmental-engineering at University of Tokyo.
-- 👀 watching on web ecosystem(especially in web standard, frontend tech)
+- 👀 interested in web ecosystem(especially in web standard, frontend tech)
 - 💘 Love Web, Programming, making something
-- 🌍 21 years old
+- 🌍 22 years old
 - 🌍 Live in Tokyo, Japan
 
 ## Contribute
