@@ -12,6 +12,7 @@
 - ✨ web performance tuning skills in web front-end(Rendering, Loading, Cache stratagy)
 - 🎓 studying systems-theory, environmental-engineering at University of Tokyo.
 - 👀 interested in web ecosystem(especially in web standard, frontend tech)
+- 😽 Organizer of Next-js-translation program
 - 💘 Love Web, Programming, making something
 - 🌍 22 years old
 - 🌍 Live in Tokyo, Japan
