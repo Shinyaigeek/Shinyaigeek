@@ -20,7 +20,6 @@
 ## Contribute
 
 - Follow me on Twitter ([@shinyaigeek](https://twitter.com/Shinyaigeek)) or GitHub ([@shinyaigeek](https://github.com/Shinyaigeek)) ✌️
-- A Message about web-dev position job is welcome 🥳
 
 ## Working Motivation
 
