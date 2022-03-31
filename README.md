@@ -10,7 +10,8 @@
 - 🔥 web enthuasist
 - ✨ Front-end dev skills
 - ✨ web performance tuning skills in web front-end(Rendering, Loading, Cache stratagy)
-- 🎓 majored in systems-theory, environmental-engineering at University of Tokyo.
+- 🎓 graduated University of Tokyo. majoring in environmental-engineering.
+- 👨‍💻 working at News Paper Company
 - 👀 interested in web ecosystem(especially in web standard, frontend tech)
 - 😽 Organizer of Next-js-translation program
 - 💘 Love Web, Programming, making something
