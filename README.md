@@ -7,16 +7,17 @@
 ## Features
 
 - 🕸 web developer
-- 🔥 web enthuasist
+- 🔥 web enthusiast
 - ✨ Front-end dev skills
-- ✨ web performance tuning skills in web front-end(Rendering, Loading, Cache stratagy)
-- 🎓 graduated University of Tokyo. majoring in environmental-engineering.
+- ✨ web performance tuning skills in web front-end(Rendering, Loading, Cache strategy)
+- 🎓 graduated from the University of Tokyo. majoring in environmental engineering.
 - 👨‍💻 working at News Paper Company
 - 👀 interested in web ecosystem(especially in web standard, frontend tech)
 - 😽 Organizer of Next-js-translation program
-- 💘 Love Web, Programming, making something
-- 💻 Looking for a parti-time web dev position.
-- 🌍 22 years old
+- 🐱 Member of pnpm
+- 💘 Love Web, Programming, Frontend Build ToolChain, making something
+- 💻 Looking for a part-time web dev position. Please feel free to contact me!
+- 🌍 24 years old
 - 🌍 Live in Tokyo, Japan
 
 ## Contribute
@@ -25,7 +26,7 @@
 
 ## Working Motivation
 
-I love tech, especially the web, so I want to develop the web ecosystem, and also, I want to contribute to human society through the web technology.
+I love tech, especially the web, so I want to develop the web ecosystem, and I also want to contribute to human society through web technology.
 
 ## How do I work
 
