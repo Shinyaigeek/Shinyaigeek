@@ -11,13 +11,13 @@
 - ✨ Front-end dev skills
 - ✨ web performance tuning skills in web front-end(Rendering, Loading, Cache strategy)
 - 🎓 graduated from the University of Tokyo. majoring in environmental engineering.
-- 👨‍💻 working at News Paper Company
+- 👨‍💻 working at Ubie, Inc.
 - 👀 interested in web ecosystem(especially in web standard, frontend tech)
 - 😽 Organizer of Next-js-translation program
 - 🐱 Member of pnpm
 - 💘 Love Web, Programming, Frontend Build ToolChain, making something
 - 💻 Looking for a part-time web dev position. Please feel free to contact me!
-- 🌍 24 years old
+- 🌍 26 years old
 - 🌍 Live in Tokyo, Japan
 
 ## Contribute
